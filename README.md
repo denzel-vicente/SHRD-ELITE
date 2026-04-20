@@ -7,44 +7,44 @@ SHRED ELITE is a high-performance Progressive Web App (PWA) designed to optimize
 
 🛡️ Privacy & Philosophy
 
-100% Local Storage Secure: Your data never leaves your device. No databases, no tracking, no cloud. It’s stored in your browser's encrypted local storage.
+- 100% Local Storage Secure: Your data never leaves your device. No databases, no tracking, no cloud. It’s stored in your browser's encrypted local storage.
 
-Open-Source: Fully transparent code. Audit it, fork it, or contribute.
+- Open-Source: Fully transparent code. Audit it, fork it, or contribute.
 
-Discipline Framework: Built for the 1%. It follows the principle that elite performance is the result of winning the morning, dominating the afternoon, and reviewing the night.
+- Discipline Framework: Built for the 1%. It follows the principle that elite performance is the result of winning the morning, dominating the afternoon, and reviewing the night.
 
 
 🚀 Key Features
 
-Phase-Based Architecture: Specialized tracking for Morning (Prep), Afternoon (Execution), and Nightfall (Review).
+- Phase-Based Architecture: Specialized tracking for Morning (Prep), Afternoon (Execution), and Nightfall (Review).
 
-Pillar Customization: Add and manage custom habits (Pillars) to align with your personal mission.
+- Pillar Customization: Add and manage custom habits (Pillars) to align with your personal mission.
 
-PWA Ready: Installable on mobile and desktop devices with offline support via Service Workers.
+- PWA Ready: Installable on mobile and desktop devices with offline support via Service Workers.
 
-Bi-lingual Support: Full English and Portuguese localization.
+- Bi-lingual Support: Full English and Portuguese localization.
 
-Performance Analytics: Visual feedback on daily completion rates and "Elite" status tracking.
+- Performance Analytics: Visual feedback on daily completion rates and "Elite" status tracking.
 
 
 🛠 Tech Stack
 
-Frontend: Pure HTML5, CSS3 (Custom Properties), and Vanilla JavaScript.
+- Frontend: Pure HTML5, CSS3 (Custom Properties), and Vanilla JavaScript.
 
-Design: Modern "Dark Mode" UI with Inter and Outfit typography.
+- Design: Modern "Dark Mode" UI with Inter and Outfit typography.
 
-Persistence: LocalStorage for zero-latency data saving.
+- Persistence: LocalStorage for zero-latency data saving.
 
-System: Service Worker for offline capabilities and PWA manifest.json.
+- System: Service Worker for offline capabilities and PWA manifest.json.
 
 
 📂 Project Structure
 
-Shrd.html: The core engine, UI, and logic (Single-file architecture for speed).
+- Shrd.html: The core engine, UI, and logic (Single-file architecture for speed).
 
-service-worker.js: Handles caching and offline functionality.
+- service-worker.js: Handles caching and offline functionality.
 
-manifest.json: Defines the PWA characteristics for device installation.
+- manifest.json: Defines the PWA characteristics for device installation.
 
 
 📥 Installation
@@ -56,9 +56,9 @@ git clone [https://github.com/denzel-Vicente/shred-elite.git](https://github.com
 
 
 Launch:
-Open Shrd.html in any modern browser, or host it on a static server (GitHub Pages, Vercel, etc.).
+- Open Shrd.html in any modern browser, or host it on a static server (GitHub Pages, Vercel, etc.).
 
 PWA Install:
-Click "Add to Home Screen" in your browser to install the app as a native-feeling application.
+- Click "Add to Home Screen" in your browser to install the app as a native-feeling application.
 
 Built for the 1%. Dominate your day.
