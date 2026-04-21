@@ -49,6 +49,10 @@ SHRED ELITE is a high-performance Progressive Web App (PWA) designed to optimize
 
 📥 Installation
 
+Access it directly:
+
+- https://denzel-vicente.github.io/SHRD-ELITE/
+
 Clone the repository:
 
 - git clone https://github.com/denzel-vicente/SHRD-ELITE.git
